@@ -1,0 +1,15 @@
+C:\Users\admin\Documents\Gabriel\Fundamentos programacion\problema\bin\Debug\net6.0\problema.exe
+C:\Users\admin\Documents\Gabriel\Fundamentos programacion\problema\bin\Debug\net6.0\problema.deps.json
+C:\Users\admin\Documents\Gabriel\Fundamentos programacion\problema\bin\Debug\net6.0\problema.runtimeconfig.json
+C:\Users\admin\Documents\Gabriel\Fundamentos programacion\problema\bin\Debug\net6.0\problema.dll
+C:\Users\admin\Documents\Gabriel\Fundamentos programacion\problema\bin\Debug\net6.0\problema.pdb
+C:\Users\admin\Documents\Gabriel\Fundamentos programacion\problema\obj\Debug\net6.0\problema.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\Gabriel\Fundamentos programacion\problema\obj\Debug\net6.0\problema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\Gabriel\Fundamentos programacion\problema\obj\Debug\net6.0\problema.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\Gabriel\Fundamentos programacion\problema\obj\Debug\net6.0\problema.AssemblyInfo.cs
+C:\Users\admin\Documents\Gabriel\Fundamentos programacion\problema\obj\Debug\net6.0\problema.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\Gabriel\Fundamentos programacion\problema\obj\Debug\net6.0\problema.dll
+C:\Users\admin\Documents\Gabriel\Fundamentos programacion\problema\obj\Debug\net6.0\refint\problema.dll
+C:\Users\admin\Documents\Gabriel\Fundamentos programacion\problema\obj\Debug\net6.0\problema.pdb
+C:\Users\admin\Documents\Gabriel\Fundamentos programacion\problema\obj\Debug\net6.0\problema.genruntimeconfig.cache
+C:\Users\admin\Documents\Gabriel\Fundamentos programacion\problema\obj\Debug\net6.0\ref\problema.dll
